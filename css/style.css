@@ -8,11 +8,11 @@ body {
     flex-direction : column;
     justify-content: space-between;
     color          : #ffffff;
-    background     : #B03E80;
+    background     : #e1d3db;
     /* fallback for old browsers */
-    background     : -webkit-linear-gradient(to bottom, #B03E80, #301E69);
+    background     : -webkit-linear-gradient(to bottom, #e1d3db, #301E69);
     /* Chrome 10-25, Safari 5.1-6 */
-    background     : linear-gradient(to bottom, #B03E80, #301E69);
+    background     : linear-gradient(to bottom, #e1d3db, #301E69);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
